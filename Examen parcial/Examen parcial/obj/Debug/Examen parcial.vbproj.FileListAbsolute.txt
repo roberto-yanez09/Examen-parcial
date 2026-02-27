@@ -1,0 +1,12 @@
+C:\ROBERTO 24650\Examen parcial\Examen parcial\bin\Debug\Examen parcial.exe.config
+C:\ROBERTO 24650\Examen parcial\Examen parcial\bin\Debug\Examen parcial.exe
+C:\ROBERTO 24650\Examen parcial\Examen parcial\bin\Debug\Examen parcial.pdb
+C:\ROBERTO 24650\Examen parcial\Examen parcial\bin\Debug\Examen parcial.xml
+C:\ROBERTO 24650\Examen parcial\Examen parcial\obj\Debug\Examen parcial.vbprojAssemblyReference.cache
+C:\ROBERTO 24650\Examen parcial\Examen parcial\obj\Debug\Examen_parcial.Form1.resources
+C:\ROBERTO 24650\Examen parcial\Examen parcial\obj\Debug\Examen_parcial.Resources.resources
+C:\ROBERTO 24650\Examen parcial\Examen parcial\obj\Debug\Examen parcial.vbproj.GenerateResource.cache
+C:\ROBERTO 24650\Examen parcial\Examen parcial\obj\Debug\Examen parcial.vbproj.CoreCompileInputs.cache
+C:\ROBERTO 24650\Examen parcial\Examen parcial\obj\Debug\Examen parcial.exe
+C:\ROBERTO 24650\Examen parcial\Examen parcial\obj\Debug\Examen parcial.xml
+C:\ROBERTO 24650\Examen parcial\Examen parcial\obj\Debug\Examen parcial.pdb
